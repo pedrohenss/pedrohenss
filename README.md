@@ -8,7 +8,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Pedro-Csimple" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="right" alt="Pedro-Gif" src="https://im7.ezgif.com/tmp/ezgif-7-ddaba9229baa.gif">
+  <img align="right" alt="Pedro-Gif" src="https://cdn.discordapp.com/attachments/890293790571655181/890440608232132648/ezgif-2-14d6d338cd6a.gif">
 
 ##
 
